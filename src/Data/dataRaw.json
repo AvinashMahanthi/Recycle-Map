@@ -1,0 +1,972 @@
+[
+  {
+    "State": "New JERSEY",
+    "COUNTY": "ATLANTIC(NJ)",
+    "LOCATION": "1435 Doughty Road(NJ)",
+    "FACILITY NAME": "A. E. Stone",
+    "Phone": "609-641-2781",
+    "NJEMS PI": 131844,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Egg Harbor"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "ATLANTIC(NJ)",
+    "LOCATION": "7503 Weymouth Road(NJ)",
+    "FACILITY NAME": "Arawak Paving Co., Inc.",
+    "Phone": "609-561-4100",
+    "NJEMS PI": 131838,
+    "WASTE TYPE": "A, C",
+    "MUNICIPALITY": "Hammonton"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "ATLANTIC(NJ)",
+    "LOCATION": "141 S. Old Port Rd.(NJ)",
+    "FACILITY NAME": "B & J Recycling",
+    "Phone": "609-652-2434",
+    "NJEMS PI": 131834,
+    "WASTE TYPE": "A, BB, B, C, TRS, TS",
+    "MUNICIPALITY": "Galloway"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "ATLANTIC(NJ)",
+    "LOCATION": "977 Mill Road(NJ)",
+    "FACILITY NAME": "Iaconelli Contracting Co., Inc.",
+    "Phone": "609-645-2165",
+    "NJEMS PI": 131845,
+    "WASTE TYPE": "A, BB, C, TP, TS, W",
+    "MUNICIPALITY": "Pleasantville"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "ATLANTIC(NJ)",
+    "LOCATION": "18 Atlantic Avenue(NJ)",
+    "FACILITY NAME": "L. Feriozzi Concrete Co.",
+    "Phone": "609-645-0457",
+    "NJEMS PI": 131827,
+    "WASTE TYPE": "A, C",
+    "MUNICIPALITY": "Egg Harbor"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "ATLANTIC(NJ)",
+    "LOCATION": "3025 Ocean Heights Ave.(NJ)",
+    "FACILITY NAME": "Old Cape Recycling.",
+    "Phone": "609-926-6420",
+    "NJEMS PI": 131824,
+    "WASTE TYPE": "A, BB, BR, C, TP, TS, W",
+    "MUNICIPALITY": "Egg Harbor"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "ATLANTIC(NJ)",
+    "LOCATION": "2817 Fire Road(NJ)",
+    "FACILITY NAME": "Penn Jersey Bldg. Materials",
+    "Phone": "800-553-0388",
+    "NJEMS PI": 131828,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Egg Harbor"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "ATLANTIC(NJ)",
+    "LOCATION": "6150 Mill Road(NJ)",
+    "FACILITY NAME": "Puggi, Anthony",
+    "Phone": "609-926-6991",
+    "NJEMS PI": 133470,
+    "WASTE TYPE": "A, BB, BR, C, L, TP, TRS, TS, W",
+    "MUNICIPALITY": "Egg Harbor"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "ATLANTIC(NJ)",
+    "LOCATION": "1164 Route 54(NJ)",
+    "FACILITY NAME": "Waste Management of NJ, Inc.",
+    "Phone": "609-567-2398",
+    "NJEMS PI": 448412,
+    "WASTE TYPE": "A, BB, C, GY, T, W",
+    "MUNICIPALITY": "Buena Vista"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "BERGEN(NJ)",
+    "LOCATION": "1000 Page Ave.(NJ)",
+    "FACILITY NAME": "Impact Reuse & Recovery",
+    "Phone": "631-269-8800",
+    "NJEMS PI": 131888,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Lyndhurst"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "60 Railroad Avenue(NJ)",
+    "FACILITY NAME": "IWS Transfer Systems of NJ, Inc.",
+    "Phone": "201-768-5407",
+    "NJEMS PI": 197012,
+    "WASTE TYPE": "A, BB, C, L, TP, TS, W",
+    "MUNICIPALITY": "Closter"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "BURLINGTON(NJ)",
+    "LOCATION": "151 New Road(NJ)",
+    "FACILITY NAME": "Britton Industries Inc.",
+    "Phone": "844-274-8866",
+    "NJEMS PI": 131954,
+    "WASTE TYPE": "BR, L, TP, TS, W, WP",
+    "MUNICIPALITY": "Evesham"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "22000 Burlington-Columbus Rd.(NJ)",
+    "FACILITY NAME": "Burlington County",
+    "Phone": "609-499-1001",
+    "NJEMS PI": 131962,
+    "WASTE TYPE": "AS, BR, CW, GY, T, TP, TRS, TS, W, WP",
+    "MUNICIPALITY": "Florence"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1300 Union Landing Road(NJ)",
+    "FACILITY NAME": "R. E. Pierson Materials, Corp",
+    "Phone": "856-543-4187",
+    "NJEMS PI": 764351,
+    "WASTE TYPE": "A, C",
+    "MUNICIPALITY": "Cinnaminson"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "13 Maple Ave.(NJ)",
+    "FACILITY NAME": "Trap Rock Industries, LLC",
+    "Phone": "609-924-0300",
+    "NJEMS PI": 131960,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Lumberton"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "CAMDEN(NJ)",
+    "LOCATION": "300 Atlantic Ave(NJ)",
+    "FACILITY NAME": "Crane International LLC",
+    "Phone": "856-757-0070",
+    "NJEMS PI": 537942,
+    "WASTE TYPE": "T",
+    "MUNICIPALITY": "Camden"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "965 Hickstown Road(NJ)",
+    "FACILITY NAME": "Lower County Recycling, LLC.",
+    "Phone": "856-784-9308",
+    "NJEMS PI": 132031,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Gloucester"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "371 New Brooklyn Rd.(NJ)",
+    "FACILITY NAME": "R. E. Pierson Materials, Inc.",
+    "Phone": "856-467-4199",
+    "NJEMS PI": 263212,
+    "WASTE TYPE": "A, C",
+    "MUNICIPALITY": "Winslow"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1301 N. 26th Street(NJ)",
+    "FACILITY NAME": "River Front Recycling",
+    "Phone": "856-267-4110",
+    "NJEMS PI": 132011,
+    "WASTE TYPE": "A, BB, C, T, TP, W",
+    "MUNICIPALITY": "Camden"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "2324Columbia Ave.(NJ)",
+    "FACILITY NAME": "River Front Recycling and Aggregate",
+    "Phone": "856-768-1400",
+    "NJEMS PI": 132046,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Waterford Twp."
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1507 E. State Street(NJ)",
+    "FACILITY NAME": "W. Hargrove Recycling",
+    "Phone": "856-963-5888",
+    "NJEMS PI": 132010,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Camden"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "CAPE MAY(NJ)",
+    "LOCATION": "1413 Old Stagecoach Rd.(NJ)",
+    "FACILITY NAME": "Action Supply",
+    "Phone": "609-390-0663",
+    "NJEMS PI": 132071,
+    "WASTE TYPE": "C",
+    "MUNICIPALITY": "Upper Twp"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "496 Shunpike Rd(NJ)",
+    "FACILITY NAME": "Cape Mining & Recycling, LLC",
+    "Phone": "609-889-1516",
+    "NJEMS PI": 168327,
+    "WASTE TYPE": "A, C",
+    "MUNICIPALITY": "Lower"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "560 Goshen Rd(NJ)",
+    "FACILITY NAME": "Cape Mining & Recycling, LLC",
+    "Phone": "609-465-5617",
+    "NJEMS PI": 132066,
+    "WASTE TYPE": "A, BB, C, TP, TS, W",
+    "MUNICIPALITY": "Middle"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "Dennisville-Petersburg Rds.(NJ)",
+    "FACILITY NAME": "Daley's Pit",
+    "Phone": "609-624-0461",
+    "NJEMS PI": 132072,
+    "WASTE TYPE": "A, C",
+    "MUNICIPALITY": "Upper Twp."
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "CUMBERLAND(NJ)",
+    "LOCATION": "169 Jesse Bridge Rd.(NJ)",
+    "FACILITY NAME": "Cumberland County",
+    "Phone": "856-825-3700",
+    "NJEMS PI": 744504,
+    "WASTE TYPE": "BR, T, TP, TRS, TS, TT, W, WP",
+    "MUNICIPALITY": "Rosenhayn"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1020 Buckshutem Road(NJ)",
+    "FACILITY NAME": "Diamond Materials LLC",
+    "Phone": "856-358-3452",
+    "NJEMS PI": 478179,
+    "WASTE TYPE": "A, BB, BR, C, T, TP, TRS, TS, TT, W, WP",
+    "MUNICIPALITY": "Fairfield"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1969-83 Southeast Avenue(NJ)",
+    "FACILITY NAME": "Kennedy Concrete, Inc.",
+    "Phone": "856-692-8650",
+    "NJEMS PI": 132107,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Vineland"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "202 Reeves Rd.(NJ)",
+    "FACILITY NAME": "South State",
+    "Phone": "856-451-5300",
+    "NJEMS PI": 132081,
+    "WASTE TYPE": "A, BB, C, TP TRS, TL, W",
+    "MUNICIPALITY": "Fairfield"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "ESSEX(NJ)",
+    "LOCATION": "Village Park Rd.(NJ)",
+    "FACILITY NAME": "Caputo Brothers",
+    "Phone": "973-857-5410",
+    "NJEMS PI": 168325,
+    "WASTE TYPE": "BR, L, TP, TRS, TS",
+    "MUNICIPALITY": "Cedar Grove"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "110 Evergreen Avenue(NJ)",
+    "FACILITY NAME": "Evergreen Recycling Solutions, LLC",
+    "Phone": "973-242-3030",
+    "NJEMS PI": 499991,
+    "WASTE TYPE": "A, C, BB, BR, L, T, TP, TS, W",
+    "MUNICIPALITY": "Newark"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "100 Riverside Avenue(NJ)",
+    "FACILITY NAME": "Silva Construction & Demolition",
+    "Phone": "973-483-3792",
+    "NJEMS PI": 502757,
+    "WASTE TYPE": "A, BB, BR, C",
+    "MUNICIPALITY": "Newark"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "GLOUCESTER(NJ)",
+    "LOCATION": "2989 Delsea Drive(NJ)",
+    "FACILITY NAME": "County Conservation, LLC",
+    "Phone": "609-267-8600",
+    "NJEMS PI": 133555,
+    "WASTE TYPE": "A, BB, BR, C, L, TP, TRS, TS, W",
+    "MUNICIPALITY": "Franklin"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1939 Route 206(NJ)",
+    "FACILITY NAME": "L & L Redy-Mix Inc.",
+    "Phone": "609-859-2271",
+    "NJEMS PI": 229985,
+    "WASTE TYPE": "BB, C",
+    "MUNICIPALITY": "Woodbury"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "860 Oak Grove Road(NJ)",
+    "FACILITY NAME": "R. E. Pierson Materials, Inc.",
+    "Phone": "856-467-4199",
+    "NJEMS PI": 132186,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Logan Township"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "378 Route 130(NJ)",
+    "FACILITY NAME": "Soil Safe, Inc.",
+    "Phone": "856-467-8030",
+    "NJEMS PI": 203493,
+    "WASTE TYPE": "A, BB, PCS",
+    "MUNICIPALITY": "Logan"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "HUDSON(NJ)",
+    "LOCATION": "278 Secaucus Road(NJ)",
+    "FACILITY NAME": "Allegro Sanitation",
+    "Phone": "201-863-1063",
+    "NJEMS PI": 584679,
+    "WASTE TYPE": "A, AS, BB, BR, C, L, TP, TRS, W",
+    "MUNICIPALITY": "Secaucus"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "195 East 22nd Street(NJ)",
+    "FACILITY NAME": "Durable Recycling.",
+    "Phone": "201-437-0703",
+    "NJEMS PI": 738696,
+    "WASTE TYPE": "A, BB, C, T, W, WC, WP",
+    "MUNICIPALITY": "Bayonne"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "2531 94 th Street(NJ)",
+    "FACILITY NAME": "Resource Mgmt. Tech.",
+    "Phone": "201-854-7676",
+    "NJEMS PI": 132245,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "North Bergen"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "411 Bergen Ave.(NJ)",
+    "FACILITY NAME": "Tilcon New York, Inc.",
+    "Phone": "973-366-7741",
+    "NJEMS PI": 132238,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Kearny"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "9505 95th Street(NJ)",
+    "FACILITY NAME": "Tilcon New York, Inc.",
+    "Phone": "973-366-7741",
+    "NJEMS PI": 132243,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "N. Bergen Twp"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "HUNTERDON(NJ)",
+    "LOCATION": "5 Foster Lane(NJ)",
+    "FACILITY NAME": "Flemington Concrete Products, LLC",
+    "Phone": "908-782-7771",
+    "NJEMS PI": 574839,
+    "WASTE TYPE": "BB, C",
+    "MUNICIPALITY": "Raritan"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "3 Frontage Road(NJ)",
+    "FACILITY NAME": "Green Rock Recycling, LLC",
+    "Phone": "908-713-0008",
+    "NJEMS PI": 591306,
+    "WASTE TYPE": "A, BB, C, W",
+    "MUNICIPALITY": "Union"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "79 River Road(NJ)",
+    "FACILITY NAME": "Raritan Valley Recyl.",
+    "Phone": "908-730-7800",
+    "NJEMS PI": 132262,
+    "WASTE TYPE": "BR, TP, TRS, TS, W, WP",
+    "MUNICIPALITY": "Raritan Twp."
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "MERCER(NJ)",
+    "LOCATION": "4 Beakes Street(NJ)",
+    "FACILITY NAME": "Mercer Group International",
+    "Phone": "609-393-4834",
+    "NJEMS PI": 132273,
+    "WASTE TYPE": "A, AM, BB, BR, C, CW, TL, TP, TS, W",
+    "MUNICIPALITY": "Ewing"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "227 Bakers Basin Road(NJ)",
+    "FACILITY NAME": "Britton Industries, Inc.",
+    "Phone": "609-588-8225",
+    "NJEMS PI": 132289,
+    "WASTE TYPE": "A, BB, BR, C, L, TRS, TP, TS, W, WP",
+    "MUNICIPALITY": "Lawrencville"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1607 N. Olden Avenue(NJ)",
+    "FACILITY NAME": "Vinch Recycling",
+    "Phone": "609-393-0200",
+    "NJEMS PI": 132272,
+    "WASTE TYPE": "A, BB, C, TP, TS, W",
+    "MUNICIPALITY": "Ewing Twp."
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "MIDDLESEX(NJ)",
+    "LOCATION": "75 Crows Mill Road(NJ)",
+    "FACILITY NAME": "Bayshore Recycling",
+    "Phone": "732-738-6000",
+    "NJEMS PI": 132397,
+    "WASTE TYPE": "A, BB, C, PCS, PWR, SS, W",
+    "MUNICIPALITY": "Woodbridge"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "24 Middlesex Avenue(NJ)",
+    "FACILITY NAME": "Clean Earth of Carteret",
+    "Phone": "732-541-8909",
+    "NJEMS PI": 132310,
+    "WASTE TYPE": "A, BB, C, PCS, SS",
+    "MUNICIPALITY": "Carteret"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "172 Baekeland Avenue(NJ)",
+    "FACILITY NAME": "J.H. Reid",
+    "Phone": "732-752-4050",
+    "NJEMS PI": 132339,
+    "WASTE TYPE": "BB, BR, C, L, TP, TRS, TS, W",
+    "MUNICIPALITY": "Middlesex"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "234 Broadway Rd.(NJ)",
+    "FACILITY NAME": "Reliable Wood Products",
+    "Phone": "609-799-7328",
+    "NJEMS PI": 132312,
+    "WASTE TYPE": "BR, L, TP, TS, W",
+    "MUNICIPALITY": "South Brunswick"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "300 Salt Meadow Road(NJ)",
+    "FACILITY NAME": "Soil Safe, Inc. Metro 12",
+    "Phone": "800-562-4365",
+    "NJEMS PI": 578186,
+    "WASTE TYPE": "A, BB, C, PCS",
+    "MUNICIPALITY": "Carteret"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "2204 U.S. Route 130(NJ)",
+    "FACILITY NAME": "South Brunswick Recycling",
+    "Phone": "732-329-3288",
+    "NJEMS PI": 132379,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "S. Brunswick"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1 Waterworks Road(NJ)",
+    "FACILITY NAME": "Stavola Old Bridge",
+    "Phone": "732-542-2328",
+    "NJEMS PI": 133594,
+    "WASTE TYPE": "A, C, BB",
+    "MUNICIPALITY": "Old Bridge"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "100 Crows Mill Road(NJ)",
+    "FACILITY NAME": "Trap Rock Industries, LLC",
+    "Phone": "732-738-4222",
+    "NJEMS PI": 132394,
+    "WASTE TYPE": "C",
+    "MUNICIPALITY": "Woodbridge"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "327 Meadow Road(NJ)",
+    "FACILITY NAME": "Yannuzzi Group Inc",
+    "Phone": "732-985-3370",
+    "NJEMS PI": 132324,
+    "WASTE TYPE": "BR, L, TP, W, WP",
+    "MUNICIPALITY": "Edison"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "MONMOUTH(NJ)",
+    "LOCATION": "615 Green Grove Rd.(NJ)",
+    "FACILITY NAME": "Benoit Rcycling Center",
+    "Phone": "732-922-0405",
+    "NJEMS PI": 147356,
+    "WASTE TYPE": "BR, TL, TP, TRS, TS, TT",
+    "MUNICIPALITY": "Tinton Falls"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1817 Old Mill Rd.(NJ)",
+    "FACILITY NAME": "Clayton Block",
+    "Phone": "732-363-1995",
+    "NJEMS PI": 133611,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Wall"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "825 Highway 33 East(NJ)",
+    "FACILITY NAME": "Freehold Cartage, Inc.",
+    "Phone": "732-462-1001",
+    "NJEMS PI": 132412,
+    "WASTE TYPE": "A, BB, BR, C, CW, GY, T, TP, TRS, TS, W",
+    "MUNICIPALITY": "Freehold"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "133 Amboy Rd.(NJ)",
+    "FACILITY NAME": "Goldstar Recycling",
+    "Phone": "732-613-0010",
+    "NJEMS PI": 164392,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Marlboro"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "55 Highway 34(NJ)",
+    "FACILITY NAME": "J. Manzo Recycling",
+    "Phone": "732-946-7100",
+    "NJEMS PI": 132430,
+    "WASTE TYPE": "A, BB, BR, C, TP, TS, WP",
+    "MUNICIPALITY": "Marlboro"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "246 Herbertsville Road(NJ)",
+    "FACILITY NAME": "John Blewett, Inc.",
+    "Phone": "732-938-5331",
+    "NJEMS PI": 132419,
+    "WASTE TYPE": "BB, C, T, W",
+    "MUNICIPALITY": "Howell"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "5115 Belmar Boulevard(NJ)",
+    "FACILITY NAME": "Lertch Recycling Company, Inc.",
+    "Phone": "732-681-0206",
+    "NJEMS PI": 132460,
+    "WASTE TYPE": "A, BR, C, TP, TRS, TS, W",
+    "MUNICIPALITY": "Wall Twp."
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "80 Amboy Road(NJ)",
+    "FACILITY NAME": "Lucas Bros., Inc.",
+    "Phone": "732-536-6663",
+    "NJEMS PI": 244452,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Marlboro"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "3230 Shafto Rd.(NJ)",
+    "FACILITY NAME": "Mazza Recycling Services LTD",
+    "Phone": "732-922-9292",
+    "NJEMS PI": 132440,
+    "WASTE TYPE": "A, AS, BB, BR, C, CW, L, SS, T, TP, TRS, TS, W",
+    "MUNICIPALITY": "Tinton Falls"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "34 Randolph Road(NJ)",
+    "FACILITY NAME": "Resource Engineering, LLC",
+    "Phone": "732-364-6466",
+    "NJEMS PI": 543881,
+    "WASTE TYPE": "BR, TP, TRS, TS, TT, W",
+    "MUNICIPALITY": "Howell"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "360 Asbury Rd.(NJ)",
+    "FACILITY NAME": "Rosano Howell Land, LLC",
+    "Phone": "732-681-5000",
+    "NJEMS PI": 132418,
+    "WASTE TYPE": "BR, PCS, TP, TS, W, WC",
+    "MUNICIPALITY": "Howell"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "175 Drift Road(NJ)",
+    "FACILITY NAME": "Stavola Trucking Co., Inc.",
+    "Phone": "732-542-2328",
+    "NJEMS PI": 132442,
+    "WASTE TYPE": "A, C",
+    "MUNICIPALITY": "Tinton Falls"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "MORRIS(NJ)",
+    "LOCATION": "50 Railroad Ave.(NJ)",
+    "FACILITY NAME": "County Concrete Corp.",
+    "Phone": "973-584-7122",
+    "NJEMS PI": 566697,
+    "WASTE TYPE": "BB, C",
+    "MUNICIPALITY": "Roxbury"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "710 Route 15 North(NJ)",
+    "FACILITY NAME": "Jefferson Recycling, LLC",
+    "Phone": "973-361-7755",
+    "NJEMS PI": 591914,
+    "WASTE TYPE": "BB, BR, C, L, TP, TRS, TS",
+    "MUNICIPALITY": "Jefferson"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1405 Rt. 46(NJ)",
+    "FACILITY NAME": "Northeast Products LLC",
+    "Phone": "973-618-1108",
+    "NJEMS PI": 133630,
+    "WASTE TYPE": "BR, L, TP, TS, TRS",
+    "MUNICIPALITY": "Roxbury"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "625 Mt. Hope Rd.(NJ)",
+    "FACILITY NAME": "Tilcon of New York",
+    "Phone": "973-366-7741",
+    "NJEMS PI": 133631,
+    "WASTE TYPE": "BB, C",
+    "MUNICIPALITY": "Rockaway Twp"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "OCEAN(NJ)",
+    "LOCATION": "2213 West Lacey Rd.(NJ)",
+    "FACILITY NAME": "Brick Wall Corp.",
+    "Phone": "609-693-6300",
+    "NJEMS PI": 133639,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Lacey"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1497 Route 9 North(NJ)",
+    "FACILITY NAME": "Ocean Cnty Recyl.",
+    "Phone": "732-244-1716",
+    "NJEMS PI": 133635,
+    "WASTE TYPE": "A, BR, C, T, TP, TRS, W",
+    "MUNICIPALITY": "Dover Twp"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "655 S. Hope Chapel Road(NJ)",
+    "FACILITY NAME": "Pure Soil Technologies",
+    "Phone": "732-657-8551",
+    "NJEMS PI": 132544,
+    "WASTE TYPE": "BB, C, PCS",
+    "MUNICIPALITY": "Jackson Twp"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "577 S. Hope Chapel Road(NJ)",
+    "FACILITY NAME": "Recycling of Central Jersey, LLC",
+    "Phone": "732-323-0226",
+    "NJEMS PI": 132543,
+    "WASTE TYPE": "A, C, TS, W",
+    "MUNICIPALITY": "Jackson"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1985 Rutgers Blvd(NJ)",
+    "FACILITY NAME": "Rubbercycle, Inc.",
+    "Phone": "732-363-0600",
+    "NJEMS PI": 132551,
+    "WASTE TYPE": "T",
+    "MUNICIPALITY": "Lakewood"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "242 Dover Rd.(NJ)",
+    "FACILITY NAME": "Suffolk Recycling Corp.",
+    "Phone": "732-349-7726",
+    "NJEMS PI": 132563,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "S. Toms River"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "PASSAIC(NJ)",
+    "LOCATION": "289 Maltese Drive(NJ)",
+    "FACILITY NAME": "FYC Recycling, LLC",
+    "Phone": "973-837-6888",
+    "NJEMS PI": 575460,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Totowa"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "100 Planten Avenue(NJ)",
+    "FACILITY NAME": "PPark NJ, LLC",
+    "Phone": "973-947-4488",
+    "NJEMS PI": 132589,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Prospect Park"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "80 Airport Road(NJ)",
+    "FACILITY NAME": "Skytop Recycling, Inc",
+    "Phone": "973-728-4444",
+    "NJEMS PI": 132603,
+    "WASTE TYPE": "A, AS, BB, BR, C, GY, TP, TS, W",
+    "MUNICIPALITY": "West Milford"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "400-402 Central Ave.(NJ)",
+    "FACILITY NAME": "Stone Industries, Inc.",
+    "Phone": "973-595-6250",
+    "NJEMS PI": 132572,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Haledon"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "Foot of Broad Street(NJ)",
+    "FACILITY NAME": "Tilcon of NY",
+    "Phone": "973-366-7741",
+    "NJEMS PI": 132568,
+    "WASTE TYPE": "BB, C",
+    "MUNICIPALITY": "Bloomingdale/"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "SALEM(NJ)",
+    "LOCATION": "395 N.J. State Hwy. 77(NJ)",
+    "FACILITY NAME": "South Jersey Agr. Prod.",
+    "Phone": "856-358-0990",
+    "NJEMS PI": 133658,
+    "WASTE TYPE": "BR, TL, TRS, TS, W, WP",
+    "MUNICIPALITY": "Upper Pittsgrove"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "SOMERSET(NJ)",
+    "LOCATION": "15 Polhemus Lane(NJ)",
+    "FACILITY NAME": "Active Recycling Corp.",
+    "Phone": "908-722-8484",
+    "NJEMS PI": 133660,
+    "WASTE TYPE": "BB, C",
+    "MUNICIPALITY": "Bridgewater Twp."
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "810 Thompson Ave.(NJ)",
+    "FACILITY NAME": "Stavola Construction Materials, Inc.",
+    "Phone": "732-542-2328",
+    "NJEMS PI": 132636,
+    "WASTE TYPE": "A, C",
+    "MUNICIPALITY": "Bridgewater"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "Lauel Ave. (Rt. 603)(NJ)",
+    "FACILITY NAME": "Trap Rock",
+    "Phone": "609-924-0300",
+    "NJEMS PI": 133662,
+    "WASTE TYPE": "A, BB C",
+    "MUNICIPALITY": "Franklin Twp"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "3311 U.S. Route 22 East(NJ)",
+    "FACILITY NAME": "Vollers Excavating, Inc.",
+    "Phone": "908-725-1026",
+    "NJEMS PI": 132638,
+    "WASTE TYPE": "A, BB, C, W",
+    "MUNICIPALITY": "Branchburg"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "1 New Providence Rd.(NJ)",
+    "FACILITY NAME": "Weldon Asphalt Company",
+    "Phone": "973-663-2010",
+    "NJEMS PI": 132661,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Watchung"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "SUSSEX(NJ)",
+    "LOCATION": "482 Houses Corner Rd.(NJ)",
+    "FACILITY NAME": "Reliable Wood Products, LLC",
+    "Phone": "973-383-9300",
+    "NJEMS PI": 132685,
+    "WASTE TYPE": "A, BB, BR, C, TP, TS, W",
+    "MUNICIPALITY": "Sparta Twp."
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "181 Route 181(NJ)",
+    "FACILITY NAME": "Weldon Asphalt Company",
+    "Phone": "973-663-2010",
+    "NJEMS PI": 132672,
+    "WASTE TYPE": "A, C",
+    "MUNICIPALITY": "Lake Hopatcong"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "UNION(NJ)",
+    "LOCATION": "711 Ramsey Avenue(NJ)",
+    "FACILITY NAME": "Casings of NJ",
+    "Phone": "908-851-7766",
+    "NJEMS PI": 132706,
+    "WASTE TYPE": "T",
+    "MUNICIPALITY": "Hillside"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "650 Leesville Avenue(NJ)",
+    "FACILITY NAME": "Rahway Recycling & Materials, Inc.",
+    "Phone": "732-381-3116",
+    "NJEMS PI": 587611,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Rahway"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "341 Trumbull Street(NJ)",
+    "FACILITY NAME": "Rockcrete Recyl. Corp.",
+    "Phone": "908-352-2009",
+    "NJEMS PI": 709703,
+    "WASTE TYPE": "A, BB, C",
+    "MUNICIPALITY": "Elizabeth"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "2-74 S. Front Street(NJ)",
+    "FACILITY NAME": "Trevecon Construction Co., Inc..",
+    "Phone": "908-580-0200",
+    "NJEMS PI": 460097,
+    "WASTE TYPE": "BB, C",
+    "MUNICIPALITY": "Elizabeth"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "",
+    "LOCATION": "629 S. Front Street(NJ)",
+    "FACILITY NAME": "Waste Management, Inc.",
+    "Phone": "908-436-2953",
+    "NJEMS PI": 194855,
+    "WASTE TYPE": "A, BB, C, T, W",
+    "MUNICIPALITY": "Elizabeth"
+  },
+  {
+    "State": "New JERSEY",
+    "COUNTY": "WARREN(NJ)",
+    "LOCATION": "Mt. Pisgah Ave.(NJ)",
+    "FACILITY NAME": "Tilcon of New Jersey",
+    "Phone": "973-366-7741",
+    "NJEMS PI": 132753,
+    "WASTE TYPE": "C",
+    "MUNICIPALITY": "Oxford"
+  }
+]
