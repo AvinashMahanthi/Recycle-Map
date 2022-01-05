@@ -90,6 +90,7 @@ function FilterTab() {
   // handle change event of search input
   const handleChange = (value) => {
     // setD(value);
+    setSearchWaste(value);
     filterData(value);
   };
 
@@ -98,7 +99,7 @@ function FilterTab() {
     filterCounty(value);
   };
   const handleStateChange = (value) => {
-    setSearchCounty(value);
+    setSearchState(value);
     filterState(value);
   };
 
@@ -160,7 +161,7 @@ function FilterTab() {
               type="text"
               id="header-search"
               placeholder="Search Waste Type"
-              value={searchCounty}
+              value={searchWaste}
               onChange={(e) => handleChange(e.target.value)}
             />
           </Col>
@@ -171,6 +172,7 @@ function FilterTab() {
                 title="County"
                 id="input-group-dropdown-1"
                 name="CountyList"
+                value={searchCounty}
                 onChange={(event) => {
                   console.log("County log:" + event.target.value);
                   handleCountyChange(event.target.value);
@@ -183,6 +185,7 @@ function FilterTab() {
                 title="State"
                 id="input-group-dropdown-1"
                 className="mx-2"
+                value={searchState}
                 name="StateList"
                 onChange={(event) => {
                   console.log("state log:" + event.target.value);
