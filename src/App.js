@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <nav>
-        <h2 className="Nav-header align-left">Recycling Map</h2>
+        <h2 className="Nav-header">Recycling Map</h2>
       </nav>
 
       <Container fluid>

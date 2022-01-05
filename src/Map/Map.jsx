@@ -6,8 +6,6 @@ import LocationInfo from "./LocationInfo";
 
 import GoogleMapReact from "google-map-react";
 
-const AnyReactComponent = ({ text }) => <div>{text}</div>;
-
 const Map = () => {
   const [locationInf, setLocationInf] = useState(null);
 
@@ -23,7 +21,7 @@ const Map = () => {
   };
 
   const Locations = Data.map((data, index) => {
-    console.log(data);
+    // console.log(data);
     return (
       <LocationMarker
         key={index}
@@ -53,7 +51,6 @@ const Map = () => {
           defaultCenter={defaultProps.center}
           defaultZoom={defaultProps.zoom}
         >
-          {/* <AnyReactComponent lat={59.955413} lng={30.337844} text="Default" /> */}
           {Locations}
         </GoogleMapReact>
         {locationInf && <LocationInfo info={locationInf} />}
